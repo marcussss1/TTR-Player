@@ -1,0 +1,11 @@
+/home/marcussss1/2022_2_MidnightSun/ManuallyCase/Snoozy-Medieval-Town-Road.wav
+0
+264020
+0
+50
+/home/marcussss1/2022_2_MidnightSun/ManuallyCase/Шум-Леса-И-Пение-Птиц.wav
+40000
+60000
+0
+50
+

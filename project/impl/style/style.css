@@ -1,0 +1,33 @@
+/* QWidget { background-color: black; } */
+
+QWidget#currentTrackWidget { background-color: #242f3d;}
+QWidget#optionsWindow { background-color: #1f2936; }
+QWidget#leftBoard { background-color: #17212b; }
+
+QTableWidget { background-color: black; }
+
+QMenuBar { background-color: #1f2936; }
+QLabel{ font-size: 15pt; }
+
+QPushButton { background-color: #1f2936; }
+
+QPushButton#close { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/close.png); }     
+QPushButton#zoom { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/zoom.png); }     
+QPushButton#minimize { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/minimize.png); }
+
+QPushButton#shuffle { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/shuffle.png); }            
+QPushButton#previousTrack { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/previousTrack.png); } 
+QPushButton#play { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/play.png); } 
+QPushButton#pause { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/shuffle.png); } 
+QPushButton#nextTrack { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/nextTrack.png); } 
+QPushButton#repeat { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/repeat.png); } 
+QPushButton#muteOff { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/muteOff.png); } 
+
+
+
+QPushButton:hover#shuffle { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/shuffleFocus.png); }            
+QPushButton:hover#previousTrack { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/previousTrackFocus.png); } 
+QPushButton:hover#play { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/playFocus.png); } 
+QPushButton:hover#nextTrack { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/nextTrackFocus.png); } 
+QPushButton:hover#repeat { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/repeatFocus.png); } 
+QPushButton:hover#muteOff { border-image: url(/home/marcussss1/2022_2_MidnightSun/project/impl/icons/muteOffFocus.png); } 
